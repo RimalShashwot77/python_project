@@ -1,0 +1,5 @@
+host='localhost'
+user='root'
+password=''
+database='level4d'
+port='3306'
